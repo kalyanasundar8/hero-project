@@ -1,0 +1,25 @@
+{
+    "hero": [
+        {
+            "id": 1,
+            "name": "Super-man",
+            "power": 100,
+            "region": "US",
+            "universe": "DC"
+        },
+        {
+            "id": 2,
+            "name": "Spider-man",
+            "power": 90,
+            "region": "US",
+            "universe": "MARVEL"
+        },
+        {
+            "id": 3,
+            "name": "Bat-man",
+            "power": 100,
+            "region": "US",
+            "universe": "DC"
+        }
+    ]
+}
